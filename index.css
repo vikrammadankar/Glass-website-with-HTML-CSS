@@ -33,7 +33,7 @@ main {
     rgba(255, 255, 255, 0.5)
   );
   height: 15rem;
-  width: 15rem;
+  width: rem;
   position: absolute;
   border-radius: 50%;
 }
